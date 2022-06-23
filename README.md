@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/laysonwarren" target="blank"><img src="https://img.shields.io/twitter/follow/laysonwarren?logo=twitter&style=for-the-badge" alt="laysonwarren" /></a> </p>
 
-- 🔭 I’m currently working on [Eyewalk: Smart Walking Cane](https://github.com/warrenlayson/eyewalk)
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **everything**
 
